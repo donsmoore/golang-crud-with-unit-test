@@ -1,0 +1,5 @@
+.idea/
+backups/
+*.zip
+*.7z
+app.yaml
